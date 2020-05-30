@@ -12,8 +12,12 @@
 
 * [Licenses](api/licenses.md)
 
+## TOOLS
+
+* [Available Modules](tools/available-modules.md)
+
 ## Legal
 
-* [Terms and Conditions](legal/terms-and-conditions.md)
+* [Terms of Service](legal/tos.md)
 * [Privacy Policy](legal/privacy-policy.md)
 

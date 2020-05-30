@@ -8,7 +8,7 @@ Releases define the plan, stock, and password for purchase links. Using releases
 
 To create a plan, log into your dashboard and head to the `/admin` page. Click `New` next to "Releases," and a modal will pop up with some basic release options:
 
-* **Plan** to release \(see [Plans](create-plan.md)\)
+* **Plan** to release \(see [**Plans**](create-plan.md)\)
 * **Stock** to release
 * **Password** to include in the purchase link
 

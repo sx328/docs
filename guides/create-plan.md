@@ -15,7 +15,7 @@ To create a plan, log into your dashboard and head to the `/admin` page. Click `
 * **Roles** that will be assigned when users bind their license
 * **Amount** that will be charged at the beginning of each billing cycle
 * **Currency**
-* Billing **Interval**
+* **Billing Interval**
 * **Initial fee** to be charged immediately upon purchase
 * **Trial period** before the first billing date
 

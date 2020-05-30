@@ -1,13 +1,13 @@
 # Privacy Policy
 
 {% hint style="success" %}
-**Effective as of November 21st, 2019                                                                                                                                  Last Updated on November 21st, 2019**
+**Effective as of November 21st, 2019                                                                                                                                  Last Updated on May 30th, 2020**
 {% endhint %}
 
 {% hint style="info" %}
 **PRIVACY POLICY**
 
-Meta Labs or Drop o’Clock LLC \("us", "we", or "our"\) operates the [**metalabs.io**](https://www.metalabs.io/) website \(hereinafter referred to as the "Service"\).
+**Meta Labs LLC** \("us", "we", or "our"\) operates the [**metalabs.io**](https://www.metalabs.io/) website \(hereinafter referred to as the "Service"\).
 
 This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -17,7 +17,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 {% hint style="info" %}
 **DEFINITIONS**
 
-_**Service**_                                                                                                                                                                          Service is the [**metalabs.io**](https://www.metalabs.io/) website operated by Drop o’Clock LLC.
+_**Service**_                                                                                                                                                                          Service is the [**metalabs.io**](https://www.metalabs.io/) website operated by **Meta Labs LLC**.
 
 _**Personal Data**_                                                                                                                                     Personal Data means data about a living individual who can be identified from those data \(or from those and other information either in our possession or likely to come into our possession\).
 
@@ -71,7 +71,7 @@ _Examples of Cookies we use:_
 {% hint style="info" %}
 **USE OF DATA**
 
-Meta Labs or Drop o'Clock LLC uses the collected data for various purposes:
+**Meta Labs LLC** uses the collected data for various purposes:
 
 * To provide and maintain our Service.
 * To notify you about changes to our Service.
@@ -82,9 +82,9 @@ Meta Labs or Drop o'Clock LLC uses the collected data for various purposes:
 * To detect, prevent and address technical issues.
 * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information.
 * Legal Basis for Processing Personal Data under the General Data Protection Regulation \(GDPR\).
-* If you are from the European Economic Area \(EEA\), Meta Labs or Drop o’Clock LLC legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+* If you are from the European Economic Area \(EEA\), **Meta Labs LLC** legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
 
-Meta Labs or Drop o'Clock LLC may process your Personal Data because:
+**Meta Labs LLC** may process your Personal Data because:
 
 * We need to perform a contract with you.
 * You have given us permission to do so.
@@ -92,9 +92,9 @@ Meta Labs or Drop o'Clock LLC may process your Personal Data because:
 * For payment processing purposes.
 * To comply with the law.
 * Retention of Data.
-* Meta Labs or Drop o’Clock LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations \(for example, if we are required to retain your data to comply with applicable laws\), resolve disputes and enforce our legal agreements and policies.
+* **Meta Labs LLC** will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations \(for example, if we are required to retain your data to comply with applicable laws\), resolve disputes and enforce our legal agreements and policies.
 
-Meta Labs or Drop o’Clock LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer periods.
+**Meta Labs LLC** will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer periods.
 {% endhint %}
 
 {% hint style="info" %}
@@ -106,22 +106,22 @@ If you are located outside United States and choose to provide information to us
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Meta Labs or Drop o’Clock LLC will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+**Meta Labs LLC** will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 {% endhint %}
 
 {% hint style="info" %}
 **DISCLOSURE OF DATA**
 
-**Disclosure for Law Enforcement**                                                                                                                     Under certain circumstances, Meta Labs or Drop o’Clock LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities \(e.g. a court or a government agency\).
+**Disclosure for Law Enforcement**                                                                                                                     Under certain circumstances, **Meta Labs LLC** may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities \(e.g. a court or a government agency\).
 {% endhint %}
 
 {% hint style="info" %}
 **LEGAL REQUIREMENTS**
 
-Meta Labs or Drop o’Clock LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
+**Meta Labs LLC** may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 * To comply with a legal obligation
-* To protect and defend the rights or property of Meta Labs or Drop o’Clock LLC
+* To protect and defend the rights or property of **Meta Labs LLC**
 * To prevent or investigate possible wrongdoing in connection with the Service
 * To protect the personal safety of users of the Service or the public
 * To protect against legal liability
@@ -131,7 +131,7 @@ Meta Labs or Drop o’Clock LLC may disclose your Personal Data in the good fait
 **Our Policy on "Do Not Track" Signals under the California Online Protection Act \(CalOPPA\)**  We do not support Do Not Track \("DNT"\). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.  
 ****You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-**Your Data Protection Rights under the General Data Protection Regulation \(GDPR\)**                        If you are a resident of the European Economic Area \(EEA\), you have certain data protection rights. Meta Labs or Drop o’Clock LLC aims to take reasonable steps to allow you to correct, amend, delete or limit the use of your Personal Data.
+**Your Data Protection Rights under the General Data Protection Regulation \(GDPR\)**                        If you are a resident of the European Economic Area \(EEA\), you have certain data protection rights. **Meta Labs LLC** aims to take reasonable steps to allow you to correct, amend, delete or limit the use of your Personal Data.
 
 **If you wish to be informed about what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.**
 
@@ -142,7 +142,7 @@ In certain circumstances, you have the following data protection rights:
 * The right to object. You have the right to object to our processing of your Personal Data.
 * The right of restriction. You have the right to request that we restrict the processing of your personal information.
 * The right to data portability. You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
-* The right to withdraw consent. You also have the right to withdraw your consent at any time where Meta Labs or Drop o’Clock LLC relied on your consent to process your personal information.
+* The right to withdraw consent. You also have the right to withdraw your consent at any time where **Meta Labs LLC** relied on your consent to process your personal information.
 
 **Please note that we may ask you to verify your identity before responding to such requests.**
 
