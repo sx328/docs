@@ -2,11 +2,11 @@
 
 * [Getting Started](README.md)
 
-## Dashboard <a id="guides"></a>
+## Dashboard
 
-* [Licenses](guides/manage-licenses.md)
-* [Plans](guides/create-plan.md)
-* [Releases](guides/create-release.md)
+* [Licenses](dashboard/licenses.md)
+* [Plans](dashboard/plans.md)
+* [Releases](dashboard/releases.md)
 
 ## API
 

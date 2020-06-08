@@ -15,8 +15,8 @@ description: >-
 | **Ticket and Suggestions** | A simple ticket bot and suggestions manager. |
 | **Embed Generator** | Create Discord embeds easily with a commands-based generator, supporting formats for Calendar, Releases and much more. |
 | **eBay Viewer** | Add views to your eBay listing seamlessly with just a command. |
-| **Supreme Tools** | Receive the latest Supreme droplist and sellout times on-command. |
-| **Server Manager** | Set of commands that will make your life easier while managing your Discord server. |
+| **Supreme Tools** | Receive the latest Supreme droplists and sellout times on-command. |
+| **Server Manager** | A set of commands that will make your life easier while managing your Discord server. |
 
 ## Reach out for any custom request by emailing us at [support@metalabs.io](mailto:support@metalabs.io) or joining our [Discord Server](https://discord.metalabs.io/).
 
