@@ -2,11 +2,11 @@
 
 * [Getting Started](README.md)
 
-## Dashboard
+## Stripe Dashboard
 
-* [Licenses](dashboard/licenses.md)
-* [Plans](dashboard/plans.md)
-* [Releases](dashboard/releases.md)
+* [Licenses](stripe-dashboard/licenses.md)
+* [Plans](stripe-dashboard/plans.md)
+* [Releases](stripe-dashboard/releases.md)
 
 ## API
 
