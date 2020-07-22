@@ -12,7 +12,7 @@ A subscription, also seen as **recurring payment** on PayPal, is a payment that 
 
 1. Head over to your PayPal dashboard, [**quick link**](https://www.paypal.com/mep/dashboard).
 2. You should see a button leading to the recurring payments page, [**quick link**](https://www.paypal.com/it/cgi-bin/webscr?cmd=_button-designer&factory_type=subscribe).
-3. Set the details of your subscription and **store the ID**, you will need to input it on the Meta Labs dashboard in order to restock with that specific subscription, see how to do it [**here**](https://docs.metalabs.io/coming-soon).
+3. Set the details of your subscription and **store the ID**, you will need to input it on the Meta Labs dashboard in order to restock with that specific subscription, see how to do it [**here**](https://docs.metalabs.io/paypal-dashboard/coming-soon).
 
 {% hint style="warning" %}
 To create subscriptions/recurring payments a **PayPal** **Business** account is required.
