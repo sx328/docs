@@ -8,13 +8,18 @@
 * [Plans](stripe-dashboard/plans.md)
 * [Releases](stripe-dashboard/releases.md)
 
+## PayPal Dashboard
+
+* [Subscriptions and Licenses](paypal-dashboard/subscriptions.md)
+* [Coming Soon](paypal-dashboard/coming-soon.md)
+
 ## API
 
 * [Licenses](api/licenses.md)
 
-## TOOLS
+## Discord <a id="discord-tools"></a>
 
-* [Available Modules](tools/available-modules.md)
+* [Tools](discord-tools/tools.md)
 
 ## Legal
 

@@ -10,14 +10,14 @@ For example, you might have a "beta" plan that renews on a monthly basis for $10
 
 To create a plan, log into your dashboard and head to the `/admin` page. Click `New` next to "Plans," and a modal will pop up with a wide range of options:
 
-* **Name** of the plan
-* **Type** \(lifetime or recurring\)
-* **Roles** that will be assigned when users bind their license
-* **Amount** that will be charged at the beginning of each billing cycle
-* **Currency**
-* **Billing Interval**
-* **Initial fee** to be charged immediately upon purchase
-* **Trial period** before the first billing date
+* **Name** of the plan.
+* **Type** \(lifetime or recurring\).
+* **Roles** that will be assigned when users bind their license.
+* **Amount** that will be charged at the beginning of each billing cycle.
+* **Currency.**
+* **Billing Interval.**
+* **Initial fee** to be charged immediately upon purchase.
+* **Trial period** before the first billing date.
 
 {% hint style="info" %}
 Trial periods do not apply to initial fees. If an initial fee is set, the user will be charged immediately regardless of the trial period.

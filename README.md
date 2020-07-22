@@ -2,7 +2,7 @@
 
 ## What is Meta Labs?
 
-We are a development firm, providing **Authentication Systems** and **Automation Tools** mainly dedicated to Discord application. 
+We are a development firm, providing **Authentication Systems** **and Tools** mainly dedicated to Discord application. 
 
 ## How can I purchase your services?
 
