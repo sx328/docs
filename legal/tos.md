@@ -69,27 +69,27 @@ You are responsible for maintaining the confidentiality of your account, and are
 
 **8.1 Certain Restrictions.** You understand that you are liable for your use of the Services, including for all Content, in whatever form, that you provide or otherwise make available to or through the Services, including to end users. You agree not to use the Services to:
 
-     \(a\) upload, post, email, transmit or otherwise make available any Content that is unlawful, harmful, threatening, abusive, harassing, fraudulent, tortuous, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable;
+     a. upload, post, email, transmit or otherwise make available any Content that is unlawful, harmful, threatening, abusive, harassing, fraudulent, tortuous, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable;
 
-     \(b\) harm minors in any way;
+     b. harm minors in any way;
 
-     \(c\) impersonate any person or entity, including, but not limited to, Meta Labs, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+     c. impersonate any person or entity, including, but not limited to, Meta Labs, or falsely state or otherwise misrepresent your affiliation with a person or entity;
 
-     \(d\) forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Services;
+     d. forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Services;
 
-     \(e\) upload, post, email, transmit or otherwise make available any Content that you do not have a right to make available under any law or under contractual or fiduciary relationships \(such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements\); 
+     e. upload, post, email, transmit or otherwise make available any Content that you do not have a right to make available under any law or under contractual or fiduciary relationships \(such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements\); 
 
-     \(f\) upload, post, email, transmit or otherwise make available any Content that infringes any patent, trademark, trade secret, copyright or other intellectual property or proprietary rights of any person or entity;
+     f. upload, post, email, transmit or otherwise make available any Content that infringes any patent, trademark, trade secret, copyright or other intellectual property or proprietary rights of any person or entity;
 
-     \(g\) upload, post, email, transmit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of solicitation, except in those areas that are designated for such purpose and within the scope of such designation;
+     g. upload, post, email, transmit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of solicitation, except in those areas that are designated for such purpose and within the scope of such designation;
 
-     \(h\) upload, post, email, transmit or otherwise make available any Content that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment or to otherwise interact with the Services in a manner not permitted by this TOS or expressly authorized by Meta Labs;
+     h. upload, post, email, transmit or otherwise make available any Content that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment or to otherwise interact with the Services in a manner not permitted by this TOS or expressly authorized by Meta Labs;
 
-     \(i\) interfere with or disrupt the Services or servers or networks connected to the Services, or disobey any requirements, procedures, policies or regulations of networks connected to the Services;
+     i. interfere with or disrupt the Services or servers or networks connected to the Services, or disobey any requirements, procedures, policies or regulations of networks connected to the Services;
 
-     \(j\) intentionally or unintentionally violate any applicable law or regulation \(foreign or domestic\);
+     j. intentionally or unintentionally violate any applicable law or regulation \(foreign or domestic\);
 
-     \(k\) stalk or otherwise harass any person or entity.
+     k. stalk or otherwise harass any person or entity.
 
 **8.2 Certain Remedial Rights.** Meta Labs does not pre-screen any Content provided or made available by you or any third party in connection with the Services, but Meta Labs and its designees shall have the right \(but not the obligation\) in their sole discretion to \(i\) monitor, alter, edit, or remove any Content, in whole or in part, and/or \(ii\) suspend, rescind and terminate your right to use the Services at any time \(with or without notice\) for any reason or no reason. You acknowledge and agree that Meta Labs may preserve Your Content and may also disclose Your Content for any reason \(but subject to the terms of the Privacy Policy, as defined herein\), including, without limitation, if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: \(a\) comply with legal process; \(b\) enforce this TOS; \(c\) respond to claims that any of Your Content violates the rights of third parties; and/or \(d\) protect the rights, property, or personal safety of Meta Labs, its users and/or the public. You understand that the technical processing and transmission of the Services, including Your Content, may involve \(i\) transmissions over or storage using various networks; and/or \(ii\) changes to conform and adapt to technical requirements of connecting networks or devices.
 {% endhint %}
@@ -145,7 +145,7 @@ IN CONSIDERATION OF BEING PERMITTED TO ACCESS AND USE THE SERVICES, YOU HEREBY A
 {% hint style="info" %}
 **17. PRIVACY**
 
-All information provided by you or collected by Meta Labs in connection with the Services is governed by Meta Labs’ privacy notice \(“Privacy Notice”\), a copy of which is located at [https://docs.metalabs.io/legal/privacy-policy](https://docs.metalabs.io/legal/privacy-policy), which is hereby incorporated by reference into and made a part of this TOS. Meta Labs strongly recommends that you review the Privacy Notice carefully. Further, any information submitted or provided by you to the Services may be publicly accessible. You should take care to protect private information or information that is important to you. Meta Labs shall not be responsible for protecting any such information and is not liable for the protection of privacy of electronic mail or other information transferred through the Internet or any other network that you may use. Please be aware that if you decide to disclose personally identifiable information on the Services, this information may become public. Meta Labs does not control and shall not be responsible for the acts of you or any other users of the Services. You are solely responsible for having and displaying a legally compliant privacy policy to your end users.
+All information provided by you or collected by Meta Labs in connection with the Services is governed by Meta Labs’ privacy notice \(“Privacy Notice”\), a copy of which is located at [**docs.metalabs.io/legal/privacy-policy**](https://docs.metalabs.io/legal/privacy-policy), which is hereby incorporated by reference into and made a part of this TOS. Meta Labs strongly recommends that you review the Privacy Notice carefully. Further, any information submitted or provided by you to the Services may be publicly accessible. You should take care to protect private information or information that is important to you. Meta Labs shall not be responsible for protecting any such information and is not liable for the protection of privacy of electronic mail or other information transferred through the Internet or any other network that you may use. Please be aware that if you decide to disclose personally identifiable information on the Services, this information may become public. Meta Labs does not control and shall not be responsible for the acts of you or any other users of the Services. You are solely responsible for having and displaying a legally compliant privacy policy to your end users.
 {% endhint %}
 
 {% hint style="info" %}
