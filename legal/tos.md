@@ -225,9 +225,7 @@ i. You agree that regardless of any statute or law to the contrary, any claim or
 {% endhint %}
 
 {% hint style="success" %}
-**CONTACT US**
-
-Meta Labs welcomes your questions or comments regarding the Terms of Service, please contact us at [**support@metalabs.io**](mailto:support@metalabs.io).
+**CONTACT US**                                                                                                                                                       Meta Labs welcomes your questions or comments regarding the Terms of Service, please contact us at [**support@metalabs.io**](mailto:support@metalabs.io).
 {% endhint %}
 
   
