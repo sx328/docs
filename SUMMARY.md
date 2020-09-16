@@ -8,11 +8,6 @@
 * [Plans](stripe-dashboard/plans.md)
 * [Releases](stripe-dashboard/releases.md)
 
-## PayPal Dashboard
-
-* [Subscriptions and Licenses](paypal-dashboard/subscriptions.md)
-* [Coming Soon](paypal-dashboard/coming-soon.md)
-
 ## API
 
 * [Licenses](api/licenses.md)
@@ -23,6 +18,7 @@
 
 ## Legal
 
+* [Terms of Service](legal/terms.md)
 * [Terms of Service](legal/tos.md)
-* [Privacy Policy](legal/privacy-policy.md)
+* [Privacy Policy](legal/privacy.md)
 
