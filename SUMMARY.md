@@ -19,6 +19,5 @@
 ## Legal
 
 * [Terms of Service](legal/terms.md)
-* [Terms of Service](legal/tos.md)
 * [Privacy Policy](legal/privacy.md)
 
