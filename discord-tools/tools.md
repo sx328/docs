@@ -4,7 +4,7 @@ description: >-
   certain feature or your branding, we'll make that happen.
 ---
 
-# Tools
+# Discord Tools
 
 | **Module** | **Features** |
 | :--- | :--- |

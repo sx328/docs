@@ -2,19 +2,19 @@
 
 * [Getting Started](README.md)
 
-## Stripe Dashboard
+## Dashboard
 
-* [Licenses](stripe-dashboard/licenses.md)
-* [Plans](stripe-dashboard/plans.md)
-* [Releases](stripe-dashboard/releases.md)
+* [Licenses](dashboard/licenses.md)
+* [Plans](dashboard/plans.md)
+* [Releases](dashboard/releases.md)
 
 ## API
 
 * [Licenses](api/licenses.md)
 
-## Discord <a id="discord-tools"></a>
+## Toolbox <a id="discord-tools"></a>
 
-* [Tools](discord-tools/tools.md)
+* [Discord Tools](discord-tools/tools.md)
 
 ## Legal
 
